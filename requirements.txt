@@ -19,6 +19,15 @@ voluptuous==0.13.1
 huggingface-hub==0.20.1
 # for Image utils
 imagesize==1.4.1
+
+pandas
+huggingface-hub
+Pillow
+deepdanbooru
+onnxruntime
+numpy
+opencv-python
+
 # for BLIP captioning
 # requests==2.28.2
 # timm==0.6.12
